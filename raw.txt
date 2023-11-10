@@ -1,0 +1,111 @@
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+define host {
+  host_name                      PLA-P1-WHE-MNG
+  alias
+  address                        17.8.52.117
+  parents
+  use                            generic-host
+  contact_groups
+  statusmap_image
+}
+
+
